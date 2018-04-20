@@ -12,7 +12,7 @@ public class LoggingTest {
 		 fh= new FileHandler("myLog.txt");
 		 log.addHandler(fh);
 		 
-		 log.setLevel(Level.);
+		 log.setLevel(Level.ALL);
 		 
 		 log.info("First log file!");
 		 
