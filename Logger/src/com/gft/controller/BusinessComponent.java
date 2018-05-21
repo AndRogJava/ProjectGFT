@@ -7,5 +7,11 @@ public static void main(String[] args) {
 	int a = 0;
 	int x = a;
 }
+
+@Override
+public String toString() {
+	return "BusinessComponent [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+			+ super.toString() + "]";
+}
  
 }
