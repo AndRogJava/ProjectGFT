@@ -1,11 +1,11 @@
 package com.gft.controller;
 
 public class BusinessComponent {
-<<<<<<< HEAD
-kuggiugiulhiuhiuhbiuhbiubuibiubdsdadsad
-=======
+ 
 public static void main(String[] args) {
 	System.out.println("");
+	int a = 0;
+	int x = a;
 }
->>>>>>> branch 'master' of https://github.com/AndRogJava/ProjectGFT.git
+ 
 }
