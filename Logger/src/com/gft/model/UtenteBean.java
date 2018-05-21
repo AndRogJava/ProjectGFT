@@ -28,7 +28,7 @@ public class UtenteBean {
 	  
 	  System.out.println(nome + " " + cognome + " " + b.getIndirizzo());
 	  
-	  jygfyu
+	  
 	  
 	   
 	}
