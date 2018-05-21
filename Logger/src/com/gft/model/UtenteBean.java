@@ -24,13 +24,10 @@ public class UtenteBean {
 	  String ind;
 	  
 	  UtenteBean b = new UtenteBean();
-	  b.setIndirizzo("ciao"); 
+	  b.setIndirizzo("via"); 
 	  
 	  System.out.println(nome + " " + cognome + " " + b.getIndirizzo() + " ");
-	  
-	  
-	  
-	   
+
 	}
 }
 
