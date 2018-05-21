@@ -10,7 +10,7 @@ public static void main(String[] args) {
 
 // toString
 
-dasdassa
+dasdassa sadasdaa
 @Override
 public String toString() {
 	return "BusinessComponent [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
