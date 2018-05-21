@@ -49,5 +49,9 @@ public class UtenteBean {
 		   
 
 	}
+	@Override
+	public String toString() {
+		return "UtenteBean [eta=" + eta + ", nome=" + nome + ", cognome=" + cognome + "]";
+	}
 	 
 }
