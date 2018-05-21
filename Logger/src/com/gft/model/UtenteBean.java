@@ -26,7 +26,7 @@ public class UtenteBean {
 	  UtenteBean b = new UtenteBean();
 	  b.setIndirizzo("ciao"); 
 	  
-	  System.out.println(nome + " " + cognome + " " + b.getIndirizzo());
+	  System.out.println(nome + " " + cognome + " " + b.getIndirizzo() + " ");
 	  
 	  
 	  
